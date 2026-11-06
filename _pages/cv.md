@@ -6,4 +6,4 @@ nav: true
 nav_order: 5
 ---
 
-[resume](/assets/pdf/2026resume.pdf)
+[resume](/assets/pdf/2026-fall_wang.pdf)
