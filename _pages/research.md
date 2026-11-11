@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: "oral presentation & works"
+description: "presentation & works"
 nav: true
 nav_order: 2
 _styles: >
